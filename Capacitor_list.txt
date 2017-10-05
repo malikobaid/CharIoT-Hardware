@@ -1,0 +1,11 @@
+C4     	1uf	0603  	SMD Multilayer Ceramic Capacitor	http://uk.farnell.com/murata/grm033r60j105mea2d/cap-mlcc-x5r-1uf-6-3v-0201/dp/2470448
+C1     	100uf	FK 	SMD Aluminium Electrolytic Capacitor	http://uk.farnell.com/panasonic-electronic-components/eeefk0j101ur/cap-alu-elec-100uf-6-3v-smd/dp/1850085
+C2     	0.1uf	0603	SMD Multilayer Ceramic Capacitor	http://uk.farnell.com/murata/grm033r60j104ke19d/cap-mlcc-x5r-100nf-6-3v-0201/dp/1775994
+R1     	10K	0603	SMD Chip Resistor, Thick Film		http://uk.farnell.com/vishay/crcw060310k0fkea/res-thick-film-10k-1-0-1w-0603/dp/1469748
+R2	100	0603	SMD Chip Resistor, Thick Film		http://uk.farnell.com/bourns/cr0603-jw-101glf/res-thick-film-100r-5-0-1w-0603/dp/2008349
+R3	100	0603	SMD Chip Resistor, Thick Film		http://uk.farnell.com/bourns/cr0603-jw-101glf/res-thick-film-100r-5-0-1w-0603/dp/2008349
+R4	10k	0603	SMD Chip Resistor, Thick Film		http://uk.farnell.com/vishay/crcw060310k0fkea/res-thick-film-10k-1-0-1w-0603/dp/1469748
+R5	10k	0603	SMD Chip Resistor, Thick Film		http://uk.farnell.com/vishay/crcw060310k0fkea/res-thick-film-10k-1-0-1w-0603/dp/1469748
+R6	10k	0603	SMD Chip Resistor, Thick Film		http://uk.farnell.com/vishay/crcw060310k0fkea/res-thick-film-10k-1-0-1w-0603/dp/1469748
+R7	10k	0603	SMD Chip Resistor, Thick Film		http://uk.farnell.com/vishay/crcw060310k0fkea/res-thick-film-10k-1-0-1w-0603/dp/1469748
+R8	10k	0603	SMD Chip Resistor, Thick Film		http://uk.farnell.com/vishay/crcw060310k0fkea/res-thick-film-10k-1-0-1w-0603/dp/1469748
