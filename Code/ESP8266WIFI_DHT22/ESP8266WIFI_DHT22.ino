@@ -1,4 +1,4 @@
-// Send DHT22 and Pir data to influx db hoseted on 185.157.234.235:8083 using an ESP8266
+// Send DHT22 and Pir data to influx db hoseted on <<Server_IP>> using an ESP8266
 // July 25 2017
 // Author: Obaid Malik
 
@@ -82,7 +82,7 @@ void loop() {
       String postStr = "SensorDataPIR,SensorID=" + String(SensorID) + " Temperature=" + String(t) + ",Humidity=" + String(h) + ",Dewpoint=" + String(dP) + ",HeatIndex=" + String(hi) + ",Presence=" + String(presence);
       Serial.println(postStr);
       client.print("POST /write?db=chariot HTTP/1.1\n");
-      client.print("Host: 185.157.234.235\n");
+      client.print("Host: <<Server_IP>>\n");
       client.print("Connection: close\n");
       client.print("Content-Type: application/x-www-form-urlencoded\n");
       client.print("Content-Length: ");
