@@ -5,4 +5,4 @@ A DHT22 and ESP8266-12F based wifi temperature and humidity sensor that records 
 
 ## Copyright and License
 
-Copyright 2013-2017 CharIoT. <br> Released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-landing-page/blob/gh-pages/LICENSE) license.
+Copyright 2016-2017 CharIoT. <br> Released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-landing-page/blob/gh-pages/LICENSE) license.
